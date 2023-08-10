@@ -9,4 +9,4 @@ MODULES NEED TO PRE INSTALLED TO RUN CODE::
 
 Note: The code might show an error when you close window related to python execution  !!!
 
-tbanks
+thanks
